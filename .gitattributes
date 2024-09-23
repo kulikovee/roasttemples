@@ -1,0 +1,14 @@
+Content/Blood/** filter=lfs diff=lfs merge=lfs -text
+Content/FantasyOrchestral/** filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeGrassLands/** filter=lfs diff=lfs merge=lfs -text
+Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
+Content/MWLandscapeAutoMaterial/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonIggyScorch/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonProps/** filter=lfs diff=lfs merge=lfs -text
+Content/Sound/** filter=lfs diff=lfs merge=lfs -text
+Content/InfinityBladeFireLands/** filter=lfs diff=lfs merge=lfs -text
+Content/KiteDemo/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonGideon/** filter=lfs diff=lfs merge=lfs -text
+Content/ParagonKhaimera/** filter=lfs diff=lfs merge=lfs -text
+Content/SampleMap/** filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent/** filter=lfs diff=lfs merge=lfs -text
